@@ -29,11 +29,11 @@ I am using the Facebook Dataset given by a prof. named Mr. Tushar Mahore
 # About the dataset:
 The original dataset is provided in a .csv format. But this dataset was totally in comma seperated format as shown in the figure.
 
-![dataset_Faccebook.csv format](csv_format.png)
+![dataset_Faccebook.csv format](images/csv_format.png)
 
 So lets first convert it into a proper excel format. For this I'm using Excel for proper data formatting.
 
-![dataset_Facebook.xlsx](xlsx_format.png)
+![dataset_Facebook.xlsx](images/xlsx_format.png)
 
 ---
 
@@ -41,12 +41,12 @@ So lets first convert it into a proper excel format. For this I'm using Excel fo
 
 ## Step 1:
 For this I go to "data" tab and then to "Text to Columns" and then select the Delimited option.
-![delimited option selection](delimited_option.png)
+![delimited option selection](images/delimited_option.png)
 
 ## Step 2:
 Then select the "Semicolon" option.
-![Select semincolon](semicolon_selecction.png)
+![Select semincolon](images/semicolon_selection.png)
 
 ## Step 3:
 Selet the general option and then click finish.
-![Select the general as final option](genral.png)
+![Select the general as final option](images/genral.png)
