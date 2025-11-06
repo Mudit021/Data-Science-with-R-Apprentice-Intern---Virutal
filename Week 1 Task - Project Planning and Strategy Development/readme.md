@@ -49,4 +49,40 @@ Then select the "Semicolon" option.
 
 ## Step 3:
 Selet the general option and then click finish.
-![Select the general as final option](images/genral.png)
+![Select the general as final option](images/general.png)
+
+---
+
+# Code snippets
+
+## Import Dataset
+
+Since the dataset is in .xlsx format we need to import/install the readxl module for it.
+![importing the dataset](import.png)
+
+## Calculation to make
+
+    - Maximum number of likes.
+        ![Maximum_number_of_likes](images/Max_likes.png)
+    - Average number of shares per post.
+        ![Avg_shares_per_post](images/Avg_shares.png)
+    - Creating a new column named Engagement.
+        ![Engagement_Column](images/Engagement_column.png)
+    - Grouping post by types and computing average like.
+        ![Grouping_posts](images/Grouping_posts.png)
+
+## Exploratory Data Analysis (EDA)
+
+	- Create a scatter plot of Likes vs Comments.
+        ![Scatter_Plot](images/Scatter_Plot.png)
+	- Create a histogram of Shares.
+        ![Histogram](images/Histogram.png)
+    - Create a boxplot of Likes
+        ![Boxplot](images/Boxplot.png)
+    - Identify outliers
+        ![Outliers](images/Outliers.png)
+    - Create a Combined boxplot
+        ![Combined_boxplot](images/Combined_boxplot.png)
+
+## IQR (Inter Quartile Range)
+    ![IQR](images/IQR.png)
