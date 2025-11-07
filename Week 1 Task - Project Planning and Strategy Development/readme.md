@@ -58,7 +58,7 @@ Selet the general option and then click finish.
 ## Import Dataset
 
 Since the dataset is in .xlsx format we need to import/install the readxl module for it.
-![importing the dataset](import.png)
+![importing the dataset](images/import.png)
 
 ## Calculation to make
 
